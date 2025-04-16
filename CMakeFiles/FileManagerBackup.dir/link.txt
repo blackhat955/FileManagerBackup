@@ -1,0 +1,1 @@
+/usr/bin/c++ -stdlib=libc++ -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/FileManagerBackup.dir/src/main.cpp.o CMakeFiles/FileManagerBackup.dir/src/FileManager.cpp.o CMakeFiles/FileManagerBackup.dir/src/Logger.cpp.o CMakeFiles/FileManagerBackup.dir/src/Scheduler.cpp.o -o FileManagerBackup

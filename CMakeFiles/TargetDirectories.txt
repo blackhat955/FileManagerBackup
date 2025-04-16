@@ -1,0 +1,3 @@
+/Users/ironfeast/Desktop/FileManageBacku/build/CMakeFiles/FileManagerBackup.dir
+/Users/ironfeast/Desktop/FileManageBacku/build/CMakeFiles/edit_cache.dir
+/Users/ironfeast/Desktop/FileManageBacku/build/CMakeFiles/rebuild_cache.dir
